@@ -1,6 +1,3 @@
-YANDEX_IMG_URL = 'https://yandex.ru/images/search'
-GOOGLE_IMG_URL = 'http://www.google.com/searchbyimage/upload'
-
-# FIND CLONE
-FIND_CLONE_LOGIN = '89629206224'
-FIND_CLONE_PASSWORD = 'ShineSquad1'
+FACE_MODEL = '../face_detect.xml'
+BAD_WORDS = "[A-Za-z0-9!#$%&'()*+,./:;<=>?@[\]^_{|}~\"\-]+"
+ROOT_DIRECTORY = '../data'
